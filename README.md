@@ -23,3 +23,14 @@ java -jar .\order-book.jar
 Note: If you want to try it with different inputs
 Please edit the text file named test.txt
 https://github.com/iderkhangai/OrderBook/blob/15f2659a8bb0a1f647e7c8be9370a45d715bd796/out/production/order-book/Resources/test.txt
+
+Output:
+
+trade 10006,10001,100,500
+trade 10006,10002,100,10000
+trade 10006,10004,103,100
+trade 10006,10005,105,5400
+
+	   Buyers		Sellers
+	   50,000   99 | 105  14,600
+	   25,500   98
